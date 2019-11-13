@@ -1,0 +1,16 @@
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Services.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Services.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Data.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Helpers.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Models.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Data.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Helpers.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Models.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\obj\Debug\Contoso.Services.csprojAssemblyReference.cache
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\obj\Debug\Contoso.Services.csproj.CopyComplete
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\obj\Debug\Contoso.Services.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\obj\Debug\Contoso.Services.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\EntityFramework.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Data.dll.config
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\Contoso.Models.dll.config
+C:\Users\Sidi\source\repos\Contoso\Contoso.Services\bin\Debug\EntityFramework.xml

@@ -1,0 +1,31 @@
+﻿@model List<Contoso.Models.Department>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>TotalDepartment @ViewBag.DepartmentCount</h2>
+<table class="table table-bordered">
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Budget</td>
+        <td>StartDate</td>
+        <td>CreateDate</td>
+        <td>RowVersion</td>
+        <td>Instructor</td>
+    </tr>
+    @foreach (var department in Model)
+    {
+<tr>
+    <td>@department.Id</td>
+    <td>@department.Name</td>
+    <td>@department.BUdget</td>
+    <td>@department.StartDate</td>
+    <td>@department.CreateDate</td>
+    <td>@department.RowVersion</td>
+    <td>@department.Instructor</td>
+</tr>
+    }
+</table>
+

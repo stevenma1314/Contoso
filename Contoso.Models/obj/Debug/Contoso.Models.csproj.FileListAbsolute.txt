@@ -1,0 +1,11 @@
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csprojAssemblyReference.cache
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.pdb
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll.config
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.xml
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sidi\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csproj.CopyComplete
